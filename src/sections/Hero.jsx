@@ -25,7 +25,7 @@ export default function Hero() {
         {/* Imagem lado direito */}
         <div className="md:w-1/2 flex justify-center">
           <img 
-            src="/logo1.png"  // coloque a imagem na pasta public/
+            src="/hero.png"  // coloque a imagem na pasta public/
             alt="Profissional AttoFix com furadeira" 
             className="max-w-sm md:max-w-md lg:max-w-lg"
           />
