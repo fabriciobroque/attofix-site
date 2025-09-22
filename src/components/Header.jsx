@@ -8,7 +8,7 @@ export default function Header() {
       {/* Logo */}
       <div className="flex items-center space-x-2">
         <img
-          src="/src/assets/logo1.png"
+          src="logo1.png"  // coloque a imagem na pasta public/
           alt="AttoFix Logo"
           className="h-10 w-auto"
         />
