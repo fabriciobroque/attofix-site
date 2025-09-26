@@ -5,7 +5,6 @@ import Services from "@/sections/Services";
 import About from "@/sections/About";
 import Footer from "@/components/Footer";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
-import { Analytics } from '@vercel/analytics/next';
 
 
 function App() {
@@ -17,10 +16,9 @@ return (
 <Services />
 <About />
 <Footer />
-<Analytics />
 </div>
 );
 }
 
 
-export default App;
+export default App; 
