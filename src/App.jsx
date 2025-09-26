@@ -4,7 +4,7 @@ import Hero from "@/sections/Hero";
 import Services from "@/sections/Services";
 import About from "@/sections/About";
 import Footer from "@/components/Footer";
-import GoogleAnalytics from "./GoogleAnalytics";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 import { Analytics } from '@vercel/analytics/next';
 
 
